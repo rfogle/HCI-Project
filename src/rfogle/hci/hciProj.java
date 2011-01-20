@@ -10,5 +10,5 @@ public class hciProj extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         // This is a comment.
-    }//hello
+    }//hello -- goodbye
 }
